@@ -1,3 +1,3 @@
 curso: Programación de sistema de información
 Institución: ISER
-Estado: inicial
+Estado: inicial colaborador: yefry
